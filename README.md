@@ -3,6 +3,6 @@
 ## tested in postman
 
 ## run locally
-in server/
-npm install
-npm start
+in server/ <br />
+npm install <br />
+npm start <br />
